@@ -1,0 +1,50 @@
+{
+  "appHeader": {
+    "brand": "Dlee",
+    "home": "Home",
+    "project": "Project",
+    "contact": "Contact",
+    "about": "About"
+  },
+  "heroSection": {
+    "hi": "Hi There!",
+    "me": "I'm",
+    "exp": "My Skill",
+    "cv": "Get Resume"
+  },
+  "introSection": {
+    "about": "About me",
+    "and": "and",
+    "heading1": "I have a passion for programming, especially UI and UX, I have learned a little bit, I think…",
+    "heading2": "I have knowledge of classical languages like",
+    "heading3": "My field of Interest's are building new",
+    "heading4": "Web Technologies and Products",
+    "heading5": "Whenever possible, I also apply my passion for developing products with"
+  },
+  "experience": {
+    "title": "Experiences"
+  },
+  "skill": {
+    "title": "Skills"
+  },
+  "aboutMe": {
+    "title": "Who Am I?",
+    "desc1": "Hi Everyone, I am Dlee from Can Tho, VietNam.",
+    "desc2": "I am currently a Frontend Dev.",
+    "desc3": "I have completed Bachelor's degree in Software Engineer at Can Tho University (CTU).",
+    "hobbies": "Apart from coding, some other activities that I love to do!",
+    "hobbie1": "Playing Sports",
+    "hobbie2": "Reading Tech Blogs & Books",
+    "hobbie3": "Travelling",
+    "quote": "Learn as if you were to live forever. Live as if you were to die tomorrow.",
+    "quoteAuthor": "--Bury St. Edmunds--",
+    "edu": "Education",
+    "major": "Softwaren Engineer",
+    "university": "Can Tho University (CTU)",
+    "contact": "FIND ME ON ",
+    "contactMe": "Contact Me"
+  },
+  "project": {
+    "title": "My Recent Projects"
+  }
+}

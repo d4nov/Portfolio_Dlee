@@ -1,0 +1,50 @@
+{
+  "appHeader": {
+    "brand": "Dlee",
+    "home": "Trang chủ",
+    "project": "Dự án",
+    "contact": "Liên hệ",
+    "about": "Về tác giả"
+  },
+  "heroSection": {
+    "hi": "Xin chào!",
+    "me": "Tôi là",
+    "exp": "Kinh nghiệm",
+    "cv": "Tải Resume"
+  },
+  "introSection": {
+    "about": "Giới thiệu",
+    "and": "và",
+    "heading1": "Tôi có niềm đam mê với lập trình, đặc biệt là giao diện (UI) và trãi nghiệm người dùng (UX), tôi đã học được ít nhiều, tôi nghĩ vậy… ",
+    "heading2": "Tôi có kiến thức các ngôn ngữ huyền thoại như là",
+    "heading3": "Lĩnh vực quan tâm của tôi là",
+    "heading4": "xây dựng các công nghệ web mới và các sản phẩm liên quan",
+    "heading5": "Bất cứ khi nào có thể, tôi cũng áp dụng niềm đam mê phát triển sản phẩm của mình với"
+  },
+  "experience": {
+    "title": "Kinh nghiệm làm việc"
+  },
+  "skill": {
+    "title": "Kỹ năng"
+  },
+  "aboutMe": {
+    "title": "Tôi là ai?",
+    "desc1": "Chào mọi người, Tôi là Dlee đến từ Cần Thơ, Việt Nam.",
+    "desc2": "Hiện tại tôi đang là Frontend Dev.",
+    "desc3": "Tôi đã hoàn thành bằng Cử nhân Kỹ sư Phần mềm tại Đại học Cần Thơ (CTU).",
+    "hobbies": "Ngoài việc lập trình, tôi còn thích làm một số hoạt động khác!",
+    "hobbie1": "Chơi thể thao",
+    "hobbie2": "Đọc blog công nghệ và sách",
+    "hobbie3": "Đi Du lịch",
+    "quote": "Hãy học như thể bạn sẽ sống vĩnh hằng. Sống như thể bạn sẽ chết vào ngày mai.",
+    "quoteAuthor": "--Bury St. Edmunds--",
+    "edu": "Trình độ học vấn",
+    "major": "Kỹ sư Phần Mềm",
+    "university": "Đại học Cần Thơ (CTU)",
+    "contact": "LIÊN HỆ VỚI TÔI",
+    "contactMe": "Liên hệ tôi"
+  },
+  "project": {
+    "title": "Các Dự Án Gần Đây Của Tôi"
+  }
+}
