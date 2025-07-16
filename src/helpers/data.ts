@@ -76,38 +76,32 @@ export const PROJECTS = [
     title: "Portfolio Dlee",
     description:
       "Technology used: Typescript, Reactjs, Scss, React-i18next,...",
-    githubLink:
-      "https://hoidanit.vn/khoa-hoc/java-spring-rest-ultimate-for-beginners-6631cb577353ab6861b188f6.html",
-    demoLink:
-      "https://hoidanit.vn/khoa-hoc/java-spring-rest-ultimate-for-beginners-6631cb577353ab6861b188f6.html",
+    githubLink: "https://github.com/d4nov/Portfolio_Dlee",
+    demoLink: "https://portfolio-dlee.vercel.app/",
   },
   {
     id: 3,
     imgPath: hoadiemson,
     title: "Hoa Diem Son Website",
     description: "Technology used: NuxtJS, NestJS, Typescript, Tailwindcss.",
-    githubLink: " https://github.com/zcrossoverz/eCommerceWebsite",
-    demoLink: " https://github.com/zcrossoverz/eCommerceWebsite",
+    githubLink: "https://github.com/d4nov/Portfolio_Dlee",
+    demoLink: "https://portfolio-dlee.vercel.app/",
   },
   {
     id: 4,
     imgPath: manageStore,
     title: "Dabae: Manage Store",
     description: "Technology used: NuxtJS, NestJS, Typescript, Tailwindcss.",
-    githubLink:
-      "https://hoidanit.vn/khoa-hoc/react-pro-max-voi-nextjs-lam-chu-toan-dien-reactjs-hien-dai-65198100e6bafa8caad417a6.html",
-    demoLink:
-      "https://hoidanit.vn/khoa-hoc/react-pro-max-voi-nextjs-lam-chu-toan-dien-reactjs-hien-dai-65198100e6bafa8caad417a6.html",
+    githubLink: "https://github.com/d4nov/Portfolio_Dlee",
+    demoLink: "https://portfolio-dlee.vercel.app/",
   },
   {
     id: 5,
     imgPath: comingSoon,
     title: "Next project",
     description: "Coming soon....",
-    githubLink:
-      "https://hoidanit.vn/khoa-hoc/react-pro-max-voi-nextjs-lam-chu-toan-dien-reactjs-hien-dai-65198100e6bafa8caad417a6.html",
-    demoLink:
-      "https://hoidanit.vn/khoa-hoc/react-pro-max-voi-nextjs-lam-chu-toan-dien-reactjs-hien-dai-65198100e6bafa8caad417a6.html",
+    githubLink: "https://github.com/d4nov/Portfolio_Dlee",
+    demoLink: "https://portfolio-dlee.vercel.app/",
   },
 ];
 
